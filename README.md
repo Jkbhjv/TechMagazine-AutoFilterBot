@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/72d3cbd3ef6154fb780cb.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/cb44e1f08009e7b96468f.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
   <b>TechMagazine AutoFilter Bot</b>
@@ -9,8 +9,7 @@
 
 
 ## Features
-
-- [x] Auto Filter
+- [x] Auto Fi
 - [x] Manual Filter
 - [x] IMDB
 - [x] Admin Commands
